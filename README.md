@@ -22,7 +22,8 @@
 Использовала Apidoc для изучения API, Google Таблицы — для чек-листа и баг-трекинга, Postman — для выполнения запросов;
 Полностью покрыла тестированием новую функциональность, выявила критичные баги, оперативно предоставила команде прозрачный отчёт;
 
-🔗<a href="https://docs.google.com/spreadsheets/d/1-Ev2leLttWUjzvD49SIIq7g33XuDeBK45379UYxpSUQ/edit?usp=drivesdk" target="_blank">Тесиирование API</a>
+🔗<a href="https://docs.google.com/spreadsheets/d/1-Ev2leLttWUjzvD49SIIq7g33XuDeBK45379UYxpSUQ/edit?usp=drivesdk" target="_blank">Тестирование API</a>
+
 ---
 ## Автоматизированное тестирование
 
